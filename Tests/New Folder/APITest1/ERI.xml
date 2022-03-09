@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Owners>
+  <OwnerId>2499</OwnerId>
+  <OwnerType>TEST_CONFIGS</OwnerType>
+  <Name><![CDATA[APITest1]]></Name>
+  <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+  <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+  <QCPath><![CDATA[Subject\New Folder\APITest1]]></QCPath>
+  <Owner>
+    <OwnerId>1501</OwnerId>
+    <OwnerType>TEST</OwnerType>
+    <Name><![CDATA[APITest1]]></Name>
+    <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+    <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+    <QCPath><![CDATA[Subject\New Folder\APITest1]]></QCPath>
+    <Relation>
+      <RelatedId>5204</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[APITest1]]></Name>
+      <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+      <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+      <QCPath><![CDATA[Subject\New Folder\APITest1]]></QCPath>
+    </Relation>
+  </Owner>
+</Owners>
+
